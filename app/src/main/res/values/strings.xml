@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ItentProj</string>
+    <string name="Number1">Number 1</string>
+    <string name="Number2">Number 2</string>
+    <string name="Submit">Ok</string>
+    <string name="addition">+</string>
+    <string name="Subtraction">-</string>
+    <string name="mutiplication">*</string>
+    <string name="devision">/</string>
+    <string name="text">total</string>
+
+</resources>
